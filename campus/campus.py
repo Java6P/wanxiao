@@ -90,7 +90,7 @@ class CampusCard:
             "requestMethod": "cam_iface46/loginnew.action",
             "shebeixinghao": "MLA-AL10",
             "systemType": "android",
-            "telephoneInfo": "5.1.1",
+            "telephoneInfo": "5.3.4",
             "telephoneModel": "HUAWEI MLA-AL10",
             "type": "1",
             "userName": phone,
@@ -127,7 +127,7 @@ class CampusCard:
                            "&systemType=Android"
                            "&token={args[sessionId]}".format(args=self.user_info),
                 "Origin": "https://server.17wanxiao.com",
-                "User-Agent": "Mozilla/5.0 (Linux; Android 5.1.1; HUAWEI MLA-AL10 Build/HUAWEIMLA-AL10; wv) "
+                "User-Agent": "Mozilla/5.0 (Linux; Android 5.3.4; HUAWEI MLA-AL10 Build/HUAWEIMLA-AL10; wv) "
                               "AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/74.0.3729.136 Mobile "
                               "Safari/537.36 Wanxiao/4.6.2",
             },
