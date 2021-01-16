@@ -2,7 +2,7 @@
 
 ## 目前在GitHub上无法运行模拟登录的代码了，这一段时间大家还是手动打卡吧
 ### 感兴趣的话小伙伴可以试着在腾讯云部署，亲测有效
-### [可以试试这个，把题目模板换一下应该就可以了](https://github.com/Revincx/HAUT_autoCheck_SCF)
+### 可以试试这个，把题目模板换一下应该就可以了[HAUT_autoCheck_SCF](https://github.com/Revincx/HAUT_autoCheck_SCF)
 **完美校园健康打卡**
 
 - 项目仅供学习研究，为了疫情防控，大家还是要早起打卡哦
